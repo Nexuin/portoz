@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amsac2026.art/sitemap.xml
